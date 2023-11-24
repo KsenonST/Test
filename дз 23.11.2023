@@ -67,6 +67,3 @@ int main() {
     
     return 0;
 }
-$ git tag HW_1y_9t
-git push -u origin
-git push origin HW_1y_9t
